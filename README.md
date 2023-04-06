@@ -20,5 +20,5 @@ I’m looking to work with Data Scientists & ML Engineers.
 
 Reach out to me on tumaradasubramanyam@gmail.com.
 
-[Link text Here](https://twitter.com/askME_AS98)
+[https://skillicons.dev/icons?i=all Follow me on twitter](https://twitter.com/askME_AS98)
 
