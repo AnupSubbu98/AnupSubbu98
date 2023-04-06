@@ -1,4 +1,4 @@
-🙋‍♂️ Hey there!
+<span style="font-family: 'Lucida Console';">🙋‍♂️ Hey there!</span>
 
 I'm Subramanyam, Bachelors of Technology Graduate
 
