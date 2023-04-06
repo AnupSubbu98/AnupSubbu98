@@ -1,6 +1,6 @@
 # 🙋‍♂️ Hey there!
 
-I'm Subramanyam, Bachelors of Technology Graduate
+I'm Subramanyam, Bachelors of Technology Graduate.
 
 Currently, I'm working as a Oracle PeopleSoft Developer and eagerly waiting to work with industry experts in Machine Learning & Data Science 👩🏻‍💻.
 
