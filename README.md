@@ -1,4 +1,4 @@
-#🙋‍♂️ Hey there!
+# 🙋‍♂️ Hey there!
 
 I'm Subramanyam, Bachelors of Technology Graduate
 
