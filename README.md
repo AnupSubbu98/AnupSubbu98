@@ -22,6 +22,4 @@ Reach out to me on tumaradasubramanyam@gmail.com.
 
 [https://skillicons.dev/icons?i=all Follow me on twitter](https://twitter.com/askME_AS98)
 
-[https://skillicons.dev/icons?i=all]Follow me on [Twitter](https://twitter.com/askME_AS98)
-
 
