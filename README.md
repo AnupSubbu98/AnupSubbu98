@@ -20,7 +20,7 @@ I’m looking to work with Data Scientists & ML Engineers.
 
 #### Reach out to me on tumaradasubramanyam@gmail.com.
 
-#### Follow me on [Twitter](https://twitter.com/askME_AS98)
+#### Follow me on [twitter](https://twitter.com/askME_AS98)
 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=anupsubbu98)
