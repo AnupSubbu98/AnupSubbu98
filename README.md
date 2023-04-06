@@ -1,4 +1,4 @@
-<span style="font-family: 'Lucida Console';">🙋‍♂️ Hey there!</span>
+🙋‍♂️ Hey there!
 
 I'm Subramanyam, Bachelors of Technology Graduate
 
@@ -24,5 +24,11 @@ Follow me on [Twitter](https://twitter.com/askME_AS98)
 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=anupsubbu98)
+
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=House_Price_Prediction_ML)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=Whatsapp-Chat_Analyzer)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=EDA-Kaggle)
+
+![counter](https://[YourEndpoint].m.pipedream.net)
 
 
