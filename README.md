@@ -2,7 +2,7 @@
 
 I'm Subramanyam, Bachelors of Technology Graduate.
 
-Currently, I'm working as a Oracle PeopleSoft Developer and eagerly waiting to work with industry experts in Machine Learning & Data Science 👩🏻‍💻.
+Currently, I'm working as a Senior Data Scientist 👩🏻‍💻.
 
 Have some vast experience in designing Artificial Intelligence applications with Machine Learning techniques includes Regression, Classification,Feature Engineering, Supervised and Unsupervised algorithms, DataAnalysis.
 
