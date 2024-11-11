@@ -4,15 +4,13 @@ I'm Subramanyam, Bachelors of Technology Graduate.
 
 Currently, I'm working as a Senior Data Scientist 👩🏻‍💻.
 
-Have some vast experience in designing Artificial Intelligence applications with Machine Learning techniques includes Regression, Classification,Feature Engineering, Supervised and Unsupervised algorithms, DataAnalysis.
+Proven IT Professional with experience of 5.0 years with extensive expertise in Machine Learning, Deep Learning, NLP techniques, Exploratory Data Analysis and ability to analyse the data. Proficient in managing the entire Machine Learning life cycle with successful project implementations on cloud platforms. Currently focused on advancing the field through Generative AI by leveraging my skills in LLMs to develop multiple Gen-AI powered client-centric applications.
 
 Worked on projects that provides a scalable, consistent and rich experience to users.
 
-Primarily deal with technologies like ⚡PYTHON, STATISTICS,MACHINE LEARNING, NEURAL NETWORKS, SQL, EXPLORATORY DATA ANALYSIS.
+Primarily deal with technologies like ⚡PYTHON, STATISTICS,MACHINE LEARNING, NEURAL NETWORKS, NLP, Generative AI & LLM's.
 
 Had some knowledge in Data structures and algorithms using Python.
-
-Learning and sharing my knowledge in public on twitter.
 
 Continuously learning and engaging with the tech communities on twitter.
 
