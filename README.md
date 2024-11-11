@@ -26,6 +26,4 @@ I’m looking to work with Data Scientists & ML Engineers.
 ## Popular Repositories 👩🏻‍💻
 
 ![ReadMe Card]([https://github-readme-stats.vercel.app/api/pin/?username=anupsubbu98&repo=House_Price_Prediction_ML](https://github.com/anupsubbu98/House_Price_Prediction_ML))
-![ReadMe Card][(https://github-readme-stats.vercel.app/api/pin/?username=anupsubbu98&repo=Whatsapp-Chat_Analyzer)](https://github.com/anupsubbu98/Whatsapp-Chat_Analyzer)
-
 
