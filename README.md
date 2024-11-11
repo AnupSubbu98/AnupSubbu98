@@ -8,7 +8,7 @@ Proven IT Professional with experience of 5.0 years with extensive expertise in 
 
 Worked on projects that provides a scalable, consistent and rich experience to users.
 
-Primarily deal with technologies like ⚡PYTHON, STATISTICS,MACHINE LEARNING, NEURAL NETWORKS, NLP, Generative AI & LLM's.
+Primarily deal with technologies like ⚡PYTHON, STATISTICS,MACHINE LEARNING, NEURAL NETWORKS, NLP, GENERATIVE AI & LLM's.
 
 Had some knowledge in Data structures and algorithms using Python.
 
